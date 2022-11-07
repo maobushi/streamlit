@@ -7,8 +7,6 @@ import streamlit as st
 import re
 from scipy import signal, stats
 import math
-from tqdm import tqdm
-import time
 
 
 #init

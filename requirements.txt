@@ -2,7 +2,7 @@ streamlit==1.13.0
 pandas
 numpy
 plotly
-NoneType
+types
 re
 scipy
 math

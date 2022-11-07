@@ -2,7 +2,6 @@ streamlit==1.13.0
 pandas
 numpy
 plotly
-re
 scipy
 math
 time

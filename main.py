@@ -391,7 +391,7 @@ if(whether_render == True):
   
   st.write(FigureTitles)
   plot_layout(fig)
-  fig.show()
+  st.plotly_chart(fig, use_container_width=True)
 
 
 #---test

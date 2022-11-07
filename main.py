@@ -133,7 +133,7 @@ def power_spectrum(sig: np.ndarray, fs: int, win_sec: int = 3, fq_lim: int = 40)
 #---AboutSidebar
 st.sidebar.title('Settings')
 graph_h = st.sidebar.slider('Graph height',1000,2000,1600)
-graph_w = st.sidebar.slider('Graph weight',1000,2000,1400)
+graph_w = st.sidebar.slider('Graph width',1000,2000,1400)
 
 #makeSomeday
 n = st.sidebar.number_input(label='How many graphes?',#Count CreateGraph Num

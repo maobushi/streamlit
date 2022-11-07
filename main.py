@@ -391,7 +391,7 @@ if(whether_render == True):
   
   st.write(FigureTitles)
   plot_layout(fig)
-  tqdm(fig.show())
+
 
 
 #---test
